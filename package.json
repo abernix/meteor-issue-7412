@@ -1,0 +1,11 @@
+{
+  "name": "meteor-issue-7412",
+  "private": true,
+  "scripts": {
+    "start": "meteor test --driver-package practicalmeteor:mocha --port 3100"
+  },
+  "dependencies": {
+    "jsforce": "^1.7.0",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
